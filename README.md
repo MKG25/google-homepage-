@@ -6,5 +6,6 @@ By the end of this projrct, I will be able to do the following:
 1)Create a new repo for this project on GitHub.com
 2)Then move that repository onto My local machine
 3)Deconstruct an existing web page
-4)And rebuild it again
-5)
+4)And rebuild it again based on my understanding.
+
+Michael Gomes.
